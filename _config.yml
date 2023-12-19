@@ -1,6 +1,6 @@
-title: "Joycean Machines"
-author: "Mohammed Osman"
-description: "assorted ramblings"
+title: "Assorted Ramblings"
+author: "Mohammed Abdal Monium Osman"
+description: "Mohammed Abdal Monium Osman"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:mohammed_osman@g.harvard.edu"}
   - {title: Github, icon: github, url: "https://github.com/mo-osman"}
 
 comments:
